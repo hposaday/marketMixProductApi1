@@ -3,6 +3,19 @@ node.js products api
 
 This is small app that expose endpoints to handle user, prducts and cart data.
 
+# Running the app
+
+first we run 
+
+npm install
+
+then we run
+
+node server/app.js
+
+
+the app runs on the port 3001
+
 # TechList
 - Node.js
 - MongoDB
