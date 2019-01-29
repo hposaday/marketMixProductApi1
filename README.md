@@ -7,11 +7,11 @@ This is small app that expose endpoints to handle user, prducts and cart data.
 
 first we run 
 
-npm install
+- npm install
 
 then we run
 
-node server/app.js
+- node server/app.js
 
 
 the app runs on the port 3001
